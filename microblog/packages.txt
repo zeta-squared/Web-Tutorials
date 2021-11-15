@@ -1,0 +1,11 @@
+The following is a list of python (flask) packages we are using and their applications:
+
+- flask-wtf: A flask wrapper for WTForms. This package allows us to create web forms (via jinja2) using class objects. Essentially each form is a class and the data in the class defines what the form items are.
+
+- flask-sqlalchemy: A flask wrapper for SQLAlchemy. Essentially an object relation mapper for sql databases. This package is compatible with MySQL, PostgreSQL and SQLite. As with flask-wtf, we can create databases as class objects and the elements of the respective class define the data entries of the database.
+
+ - flask-migrate: A flask wrapper for Alembic. A package which allows us to change database structure and then migrate existing database entries to the new structure. This of course requires some setup intially, but will pay itself off when the need arises to change database structure as the migration is effortless for the user.
+
+ - flask-login: A flask application for handling user sessions. Essentially a flask session handler for server-side.
+ 
+- email-validator: A dependency for the Email() validator from WTForms. This is used when building forms that require an email input to ensure that what the user has inputted matches the structure of an email address.
