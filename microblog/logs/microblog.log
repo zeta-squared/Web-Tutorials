@@ -70,3 +70,27 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed
 (Background on this error at: https://sqlalche.me/e/14/gkpj)
 2021-11-21 14:24:24,377 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
 
+2021-11-28 16:54:23,889 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
+
+2021-11-28 16:55:13,158 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
+
+2021-11-28 16:56:13,347 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
+
+2021-11-28 16:56:43,891 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
+
+2021-11-28 17:00:13,919 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
+
+2021-11-28 17:02:02,463 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
+
+2021-11-28 17:07:24,747 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
+
+2021-11-28 17:08:09,260 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
+
+2021-11-28 17:27:25,732 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
+
+2021-11-28 17:28:38,216 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
+
+2021-11-28 17:36:09,066 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
+
+2021-11-28 17:38:45,766 INFO: Microblog startup [in /home/zeaiter/Documents/Web Tutorials/microblog/app/__init__.py:44] 
+

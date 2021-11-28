@@ -9,3 +9,5 @@ The following is a list of python (flask) packages we are using and their applic
  - flask-login: A flask application for handling user sessions. Essentially a flask session handler for server-side.
  
 - email-validator: A dependency for the Email() validator from WTForms. This is used when building forms that require an email input to ensure that what the user has inputted matches the structure of an email address.
+
+- Python's unittest: This allows us to create unit tests which we can run to check if particular features of the applications are working. In the chapter on followers, we created a tests.py file that tests password hashing, user avatar and followers functionality. The purpose of this is to be able to test these features (and any others that I may add) when we make changes to the application.
