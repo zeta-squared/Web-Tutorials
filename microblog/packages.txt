@@ -15,3 +15,5 @@ The following is a list of python (flask) packages we are using and their applic
 - flask-mail: A package which sets up an SMTP mail server in our flask application which allows us to send messages (emails) from our views and scripts.
 
 - pyjwt - Python JSON web tokens. A package which generates JSON web tokens to use for authentication purposes.
+
+- flask-moment: A flask extension for the popular javascript extension moment.js . Moment.js allows us to configure the web applications displayed time and date using the users OS standard by working in the front end and pulling the necessary configuration data from the users' web browser.
