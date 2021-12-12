@@ -17,3 +17,5 @@ The following is a list of python (flask) packages we are using and their applic
 - pyjwt - Python JSON web tokens. A package which generates JSON web tokens to use for authentication purposes.
 
 - flask-moment: A flask extension for the popular javascript extension moment.js . Moment.js allows us to configure the web applications displayed time and date using the users OS standard by working in the front end and pulling the necessary configuration data from the users' web browser.
+
+- flask-babel: A flask extension for internalisation and localisation of web applications. It allows us to translate our web application for use by users which are do not natively speak the same language as us.
