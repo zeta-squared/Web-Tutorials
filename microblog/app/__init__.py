@@ -21,7 +21,7 @@ login.login_view = 'login'
 login.login_message = _l('Please log in to access this page.')
 mail = Mail(app)
 bootstrap = Bootstrap(app)
-moment = Moment(app):
+moment = Moment(app)
 babel = Babel(app)
 
 from app import routes, models, errors
